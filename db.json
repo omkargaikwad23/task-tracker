@@ -9,8 +9,14 @@
     {
       "text": "test1",
       "day": "day1",
-      "reminder": false,
+      "reminder": true,
       "id": 2
+    },
+    {
+      "text": "test2",
+      "day": "udya",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
