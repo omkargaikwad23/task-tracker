@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types' //impt
+// import PropTypes from 'prop-types' //impt
 import Button from './Button'
 //rafce
 const Header = ({title, onAdd, showAdd}) => {
